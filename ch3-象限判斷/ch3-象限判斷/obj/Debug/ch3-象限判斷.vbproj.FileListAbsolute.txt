@@ -1,0 +1,10 @@
+E:\資二忠\ch3-象限判斷\ch3-象限判斷\bin\Debug\ch3-象限判斷.exe.config
+E:\資二忠\ch3-象限判斷\ch3-象限判斷\obj\Debug\ch3_象限判斷.Form1.resources
+E:\資二忠\ch3-象限判斷\ch3-象限判斷\obj\Debug\ch3_象限判斷.Resources.resources
+E:\資二忠\ch3-象限判斷\ch3-象限判斷\obj\Debug\ch3-象限判斷.vbproj.GenerateResource.Cache
+E:\資二忠\ch3-象限判斷\ch3-象限判斷\bin\Debug\ch3-象限判斷.exe
+E:\資二忠\ch3-象限判斷\ch3-象限判斷\bin\Debug\ch3-象限判斷.pdb
+E:\資二忠\ch3-象限判斷\ch3-象限判斷\bin\Debug\ch3-象限判斷.xml
+E:\資二忠\ch3-象限判斷\ch3-象限判斷\obj\Debug\ch3-象限判斷.exe
+E:\資二忠\ch3-象限判斷\ch3-象限判斷\obj\Debug\ch3-象限判斷.xml
+E:\資二忠\ch3-象限判斷\ch3-象限判斷\obj\Debug\ch3-象限判斷.pdb

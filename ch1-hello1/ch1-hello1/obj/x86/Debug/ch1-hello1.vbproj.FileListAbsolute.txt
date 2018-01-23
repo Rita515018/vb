@@ -1,0 +1,12 @@
+D:\資二忠\ch1-hello1\ch1-hello1\bin\Debug\ch1-hello1.exe
+D:\資二忠\ch1-hello1\ch1-hello1\bin\Debug\ch1-hello1.pdb
+D:\資二忠\ch1-hello1\ch1-hello1\bin\Debug\ch1-hello1.xml
+D:\資二忠\ch1-hello1\ch1-hello1\obj\x86\Debug\ch1_hello.Form1.resources
+D:\資二忠\ch1-hello1\ch1-hello1\obj\x86\Debug\ch1_hello.Resources.resources
+D:\資二忠\ch1-hello1\ch1-hello1\obj\x86\Debug\ch1-hello1.vbproj.GenerateResource.Cache
+D:\資二忠\ch1-hello1\ch1-hello1\obj\x86\Debug\ch1-hello1.exe
+D:\資二忠\ch1-hello1\ch1-hello1\obj\x86\Debug\ch1-hello1.xml
+D:\資二忠\ch1-hello1\ch1-hello1\obj\x86\Debug\ch1-hello1.pdb
+E:\資二忠\ch1-hello1\ch1-hello1\obj\x86\Debug\ch1-hello1.exe
+E:\資二忠\ch1-hello1\ch1-hello1\obj\x86\Debug\ch1-hello1.xml
+E:\資二忠\ch1-hello1\ch1-hello1\obj\x86\Debug\ch1-hello1.pdb

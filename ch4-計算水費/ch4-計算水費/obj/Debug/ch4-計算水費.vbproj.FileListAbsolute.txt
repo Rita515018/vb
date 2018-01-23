@@ -1,0 +1,14 @@
+E:\資二忠\ch4-計算水費\ch4-計算水費\bin\Debug\ch4-計算水費.exe.config
+E:\資二忠\ch4-計算水費\ch4-計算水費\obj\Debug\ch4_計算水費.Form1.resources
+E:\資二忠\ch4-計算水費\ch4-計算水費\obj\Debug\ch4_計算水費.Resources.resources
+E:\資二忠\ch4-計算水費\ch4-計算水費\obj\Debug\ch4-計算水費.vbproj.GenerateResource.Cache
+E:\資二忠\ch4-計算水費\ch4-計算水費\bin\Debug\ch4-計算水費.exe
+E:\資二忠\ch4-計算水費\ch4-計算水費\bin\Debug\ch4-計算水費.pdb
+E:\資二忠\ch4-計算水費\ch4-計算水費\bin\Debug\ch4-計算水費.xml
+E:\資二忠\ch4-計算水費\ch4-計算水費\obj\Debug\ch4-計算水費.exe
+E:\資二忠\ch4-計算水費\ch4-計算水費\obj\Debug\ch4-計算水費.xml
+E:\資二忠\ch4-計算水費\ch4-計算水費\obj\Debug\ch4-計算水費.pdb
+C:\Users\790\Desktop\ch4-計算水費\ch4-計算水費\bin\Debug\ch4-計算水費.exe.config
+C:\Users\790\Desktop\ch4-計算水費\ch4-計算水費\obj\Debug\ch4-計算水費.exe
+C:\Users\790\Desktop\ch4-計算水費\ch4-計算水費\obj\Debug\ch4-計算水費.xml
+C:\Users\790\Desktop\ch4-計算水費\ch4-計算水費\obj\Debug\ch4-計算水費.pdb

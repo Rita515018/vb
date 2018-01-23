@@ -1,0 +1,10 @@
+E:\資二忠\ch5-加總\ch5-加總\bin\Debug\ch5-加總.exe.config
+E:\資二忠\ch5-加總\ch5-加總\bin\Debug\ch5-加總.exe
+E:\資二忠\ch5-加總\ch5-加總\bin\Debug\ch5-加總.pdb
+E:\資二忠\ch5-加總\ch5-加總\bin\Debug\ch5-加總.xml
+E:\資二忠\ch5-加總\ch5-加總\obj\Debug\ch5_加總.Form1.resources
+E:\資二忠\ch5-加總\ch5-加總\obj\Debug\ch5_加總.Resources.resources
+E:\資二忠\ch5-加總\ch5-加總\obj\Debug\ch5-加總.vbproj.GenerateResource.Cache
+E:\資二忠\ch5-加總\ch5-加總\obj\Debug\ch5-加總.exe
+E:\資二忠\ch5-加總\ch5-加總\obj\Debug\ch5-加總.xml
+E:\資二忠\ch5-加總\ch5-加總\obj\Debug\ch5-加總.pdb

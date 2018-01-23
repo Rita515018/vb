@@ -1,0 +1,10 @@
+E:\資二忠\Ch3-判斷奇偶數\Ch3-判斷奇偶數\bin\Debug\Ch3-判斷奇偶數.exe.config
+E:\資二忠\Ch3-判斷奇偶數\Ch3-判斷奇偶數\bin\Debug\Ch3-判斷奇偶數.exe
+E:\資二忠\Ch3-判斷奇偶數\Ch3-判斷奇偶數\bin\Debug\Ch3-判斷奇偶數.pdb
+E:\資二忠\Ch3-判斷奇偶數\Ch3-判斷奇偶數\bin\Debug\Ch3-判斷奇偶數.xml
+E:\資二忠\Ch3-判斷奇偶數\Ch3-判斷奇偶數\obj\Debug\Ch3_判斷奇偶數.Form1.resources
+E:\資二忠\Ch3-判斷奇偶數\Ch3-判斷奇偶數\obj\Debug\Ch3_判斷奇偶數.Resources.resources
+E:\資二忠\Ch3-判斷奇偶數\Ch3-判斷奇偶數\obj\Debug\Ch3-判斷奇偶數.vbproj.GenerateResource.Cache
+E:\資二忠\Ch3-判斷奇偶數\Ch3-判斷奇偶數\obj\Debug\Ch3-判斷奇偶數.exe
+E:\資二忠\Ch3-判斷奇偶數\Ch3-判斷奇偶數\obj\Debug\Ch3-判斷奇偶數.xml
+E:\資二忠\Ch3-判斷奇偶數\Ch3-判斷奇偶數\obj\Debug\Ch3-判斷奇偶數.pdb

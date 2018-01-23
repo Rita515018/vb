@@ -1,0 +1,10 @@
+E:\資二忠\ch2求三數總和與平均\ch2求三數總和與平均\bin\Debug\ch2求三數總和與平均.exe.config
+E:\資二忠\ch2求三數總和與平均\ch2求三數總和與平均\bin\Debug\ch2求三數總和與平均.exe
+E:\資二忠\ch2求三數總和與平均\ch2求三數總和與平均\bin\Debug\ch2求三數總和與平均.pdb
+E:\資二忠\ch2求三數總和與平均\ch2求三數總和與平均\bin\Debug\ch2求三數總和與平均.xml
+E:\資二忠\ch2求三數總和與平均\ch2求三數總和與平均\obj\Debug\ch2求三數總和與平均.Form1.resources
+E:\資二忠\ch2求三數總和與平均\ch2求三數總和與平均\obj\Debug\ch2求三數總和與平均.Resources.resources
+E:\資二忠\ch2求三數總和與平均\ch2求三數總和與平均\obj\Debug\ch2求三數總和與平均.vbproj.GenerateResource.Cache
+E:\資二忠\ch2求三數總和與平均\ch2求三數總和與平均\obj\Debug\ch2求三數總和與平均.exe
+E:\資二忠\ch2求三數總和與平均\ch2求三數總和與平均\obj\Debug\ch2求三數總和與平均.xml
+E:\資二忠\ch2求三數總和與平均\ch2求三數總和與平均\obj\Debug\ch2求三數總和與平均.pdb

@@ -1,0 +1,10 @@
+E:\資二忠\ch4-月份與季節\ch4-月份與季節\bin\Debug\ch4-月份與季節.exe.config
+E:\資二忠\ch4-月份與季節\ch4-月份與季節\bin\Debug\ch4-月份與季節.exe
+E:\資二忠\ch4-月份與季節\ch4-月份與季節\bin\Debug\ch4-月份與季節.pdb
+E:\資二忠\ch4-月份與季節\ch4-月份與季節\bin\Debug\ch4-月份與季節.xml
+E:\資二忠\ch4-月份與季節\ch4-月份與季節\obj\Debug\ch4_月份與季節.Form1.resources
+E:\資二忠\ch4-月份與季節\ch4-月份與季節\obj\Debug\ch4_月份與季節.Resources.resources
+E:\資二忠\ch4-月份與季節\ch4-月份與季節\obj\Debug\ch4-月份與季節.vbproj.GenerateResource.Cache
+E:\資二忠\ch4-月份與季節\ch4-月份與季節\obj\Debug\ch4-月份與季節.exe
+E:\資二忠\ch4-月份與季節\ch4-月份與季節\obj\Debug\ch4-月份與季節.xml
+E:\資二忠\ch4-月份與季節\ch4-月份與季節\obj\Debug\ch4-月份與季節.pdb

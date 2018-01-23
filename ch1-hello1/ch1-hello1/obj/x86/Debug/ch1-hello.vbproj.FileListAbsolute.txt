@@ -1,0 +1,9 @@
+C:\Users\MD570\AppData\Local\Temporary Projects\ch1-hello\bin\Debug\ch1-hello.exe
+C:\Users\MD570\AppData\Local\Temporary Projects\ch1-hello\bin\Debug\ch1-hello.pdb
+C:\Users\MD570\AppData\Local\Temporary Projects\ch1-hello\bin\Debug\ch1-hello.xml
+C:\Users\MD570\AppData\Local\Temporary Projects\ch1-hello\obj\x86\Debug\ch1_hello.Form1.resources
+C:\Users\MD570\AppData\Local\Temporary Projects\ch1-hello\obj\x86\Debug\ch1_hello.Resources.resources
+C:\Users\MD570\AppData\Local\Temporary Projects\ch1-hello\obj\x86\Debug\ch1-hello.vbproj.GenerateResource.Cache
+C:\Users\MD570\AppData\Local\Temporary Projects\ch1-hello\obj\x86\Debug\ch1-hello.exe
+C:\Users\MD570\AppData\Local\Temporary Projects\ch1-hello\obj\x86\Debug\ch1-hello.xml
+C:\Users\MD570\AppData\Local\Temporary Projects\ch1-hello\obj\x86\Debug\ch1-hello.pdb

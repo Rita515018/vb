@@ -1,0 +1,10 @@
+E:\資二忠\ch4-母音與子音\ch4-母音與子音\bin\Debug\ch4-母音與子音.exe.config
+E:\資二忠\ch4-母音與子音\ch4-母音與子音\bin\Debug\ch4-母音與子音.exe
+E:\資二忠\ch4-母音與子音\ch4-母音與子音\bin\Debug\ch4-母音與子音.pdb
+E:\資二忠\ch4-母音與子音\ch4-母音與子音\bin\Debug\ch4-母音與子音.xml
+E:\資二忠\ch4-母音與子音\ch4-母音與子音\obj\Debug\ch4_母音與子音.Form1.resources
+E:\資二忠\ch4-母音與子音\ch4-母音與子音\obj\Debug\ch4_母音與子音.Resources.resources
+E:\資二忠\ch4-母音與子音\ch4-母音與子音\obj\Debug\ch4-母音與子音.vbproj.GenerateResource.Cache
+E:\資二忠\ch4-母音與子音\ch4-母音與子音\obj\Debug\ch4-母音與子音.exe
+E:\資二忠\ch4-母音與子音\ch4-母音與子音\obj\Debug\ch4-母音與子音.xml
+E:\資二忠\ch4-母音與子音\ch4-母音與子音\obj\Debug\ch4-母音與子音.pdb

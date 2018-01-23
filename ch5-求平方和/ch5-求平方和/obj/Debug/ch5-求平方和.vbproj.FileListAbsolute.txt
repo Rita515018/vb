@@ -1,0 +1,10 @@
+E:\資二忠\ch5-求平方和\ch5-求平方和\bin\Debug\ch5-求平方和.exe.config
+E:\資二忠\ch5-求平方和\ch5-求平方和\bin\Debug\ch5-求平方和.exe
+E:\資二忠\ch5-求平方和\ch5-求平方和\bin\Debug\ch5-求平方和.pdb
+E:\資二忠\ch5-求平方和\ch5-求平方和\bin\Debug\ch5-求平方和.xml
+E:\資二忠\ch5-求平方和\ch5-求平方和\obj\Debug\ch5_求平方和.Form1.resources
+E:\資二忠\ch5-求平方和\ch5-求平方和\obj\Debug\ch5_求平方和.Resources.resources
+E:\資二忠\ch5-求平方和\ch5-求平方和\obj\Debug\ch5-求平方和.vbproj.GenerateResource.Cache
+E:\資二忠\ch5-求平方和\ch5-求平方和\obj\Debug\ch5-求平方和.exe
+E:\資二忠\ch5-求平方和\ch5-求平方和\obj\Debug\ch5-求平方和.xml
+E:\資二忠\ch5-求平方和\ch5-求平方和\obj\Debug\ch5-求平方和.pdb

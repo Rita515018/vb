@@ -1,0 +1,14 @@
+E:\資二忠\ch4-BMI計算\ch4-BMI計算\bin\Debug\ch4-BMI計算.exe.config
+E:\資二忠\ch4-BMI計算\ch4-BMI計算\obj\Debug\ch4_BMI計算.Form1.resources
+E:\資二忠\ch4-BMI計算\ch4-BMI計算\obj\Debug\ch4_BMI計算.Resources.resources
+E:\資二忠\ch4-BMI計算\ch4-BMI計算\obj\Debug\ch4-BMI計算.vbproj.GenerateResource.Cache
+E:\資二忠\ch4-BMI計算\ch4-BMI計算\bin\Debug\ch4-BMI計算.exe
+E:\資二忠\ch4-BMI計算\ch4-BMI計算\bin\Debug\ch4-BMI計算.pdb
+E:\資二忠\ch4-BMI計算\ch4-BMI計算\bin\Debug\ch4-BMI計算.xml
+E:\資二忠\ch4-BMI計算\ch4-BMI計算\obj\Debug\ch4-BMI計算.exe
+E:\資二忠\ch4-BMI計算\ch4-BMI計算\obj\Debug\ch4-BMI計算.xml
+E:\資二忠\ch4-BMI計算\ch4-BMI計算\obj\Debug\ch4-BMI計算.pdb
+C:\Users\790\Desktop\ch4-BMI計算\ch4-BMI計算\bin\Debug\ch4-BMI計算.exe.config
+C:\Users\790\Desktop\ch4-BMI計算\ch4-BMI計算\obj\Debug\ch4-BMI計算.exe
+C:\Users\790\Desktop\ch4-BMI計算\ch4-BMI計算\obj\Debug\ch4-BMI計算.xml
+C:\Users\790\Desktop\ch4-BMI計算\ch4-BMI計算\obj\Debug\ch4-BMI計算.pdb

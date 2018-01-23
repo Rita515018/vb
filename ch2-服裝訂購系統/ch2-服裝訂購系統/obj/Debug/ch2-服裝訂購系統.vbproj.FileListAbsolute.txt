@@ -1,0 +1,10 @@
+E:\資二忠\ch2-服裝訂購系統\ch2-服裝訂購系統\bin\Debug\ch2-服裝訂購系統.exe.config
+E:\資二忠\ch2-服裝訂購系統\ch2-服裝訂購系統\bin\Debug\ch2-服裝訂購系統.exe
+E:\資二忠\ch2-服裝訂購系統\ch2-服裝訂購系統\bin\Debug\ch2-服裝訂購系統.pdb
+E:\資二忠\ch2-服裝訂購系統\ch2-服裝訂購系統\bin\Debug\ch2-服裝訂購系統.xml
+E:\資二忠\ch2-服裝訂購系統\ch2-服裝訂購系統\obj\Debug\ch2_服裝訂購系統.Form1.resources
+E:\資二忠\ch2-服裝訂購系統\ch2-服裝訂購系統\obj\Debug\ch2_服裝訂購系統.Resources.resources
+E:\資二忠\ch2-服裝訂購系統\ch2-服裝訂購系統\obj\Debug\ch2-服裝訂購系統.vbproj.GenerateResource.Cache
+E:\資二忠\ch2-服裝訂購系統\ch2-服裝訂購系統\obj\Debug\ch2-服裝訂購系統.exe
+E:\資二忠\ch2-服裝訂購系統\ch2-服裝訂購系統\obj\Debug\ch2-服裝訂購系統.xml
+E:\資二忠\ch2-服裝訂購系統\ch2-服裝訂購系統\obj\Debug\ch2-服裝訂購系統.pdb

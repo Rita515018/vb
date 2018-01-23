@@ -1,0 +1,14 @@
+E:\資二忠\ch3-三角判斷\ch3-三角判斷\bin\Debug\ch3-三角判斷.exe.config
+C:\Users\790\Desktop\ch3-三角判斷\ch3-三角判斷\bin\Debug\ch3-三角判斷.exe.config
+C:\Users\790\Desktop\ch3-三角判斷\ch3-三角判斷\bin\Debug\ch3-三角判斷.exe
+C:\Users\790\Desktop\ch3-三角判斷\ch3-三角判斷\bin\Debug\ch3-三角判斷.pdb
+C:\Users\790\Desktop\ch3-三角判斷\ch3-三角判斷\bin\Debug\ch3-三角判斷.xml
+C:\Users\790\Desktop\ch3-三角判斷\ch3-三角判斷\obj\Debug\ch3_三角判斷.Form1.resources
+C:\Users\790\Desktop\ch3-三角判斷\ch3-三角判斷\obj\Debug\ch3_三角判斷.Resources.resources
+C:\Users\790\Desktop\ch3-三角判斷\ch3-三角判斷\obj\Debug\ch3-三角判斷.vbproj.GenerateResource.Cache
+C:\Users\790\Desktop\ch3-三角判斷\ch3-三角判斷\obj\Debug\ch3-三角判斷.exe
+C:\Users\790\Desktop\ch3-三角判斷\ch3-三角判斷\obj\Debug\ch3-三角判斷.xml
+C:\Users\790\Desktop\ch3-三角判斷\ch3-三角判斷\obj\Debug\ch3-三角判斷.pdb
+E:\資二忠\ch3-三角判斷\ch3-三角判斷\obj\Debug\ch3-三角判斷.exe
+E:\資二忠\ch3-三角判斷\ch3-三角判斷\obj\Debug\ch3-三角判斷.xml
+E:\資二忠\ch3-三角判斷\ch3-三角判斷\obj\Debug\ch3-三角判斷.pdb

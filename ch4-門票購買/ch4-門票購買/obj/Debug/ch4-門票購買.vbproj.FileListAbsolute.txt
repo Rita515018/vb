@@ -1,0 +1,10 @@
+E:\資二忠\ch4-門票購買\ch4-門票購買\bin\Debug\ch4-門票購買.exe.config
+E:\資二忠\ch4-門票購買\ch4-門票購買\bin\Debug\ch4-門票購買.exe
+E:\資二忠\ch4-門票購買\ch4-門票購買\bin\Debug\ch4-門票購買.pdb
+E:\資二忠\ch4-門票購買\ch4-門票購買\bin\Debug\ch4-門票購買.xml
+E:\資二忠\ch4-門票購買\ch4-門票購買\obj\Debug\ch4_門票購買.Form1.resources
+E:\資二忠\ch4-門票購買\ch4-門票購買\obj\Debug\ch4_門票購買.Resources.resources
+E:\資二忠\ch4-門票購買\ch4-門票購買\obj\Debug\ch4-門票購買.vbproj.GenerateResource.Cache
+E:\資二忠\ch4-門票購買\ch4-門票購買\obj\Debug\ch4-門票購買.exe
+E:\資二忠\ch4-門票購買\ch4-門票購買\obj\Debug\ch4-門票購買.xml
+E:\資二忠\ch4-門票購買\ch4-門票購買\obj\Debug\ch4-門票購買.pdb

@@ -1,0 +1,17 @@
+E:\資二忠\ch4-分數與評語\ch4-分數與評語\bin\Debug\ch4-分數與評語.exe.config
+E:\資二忠\ch4-分數與評語\ch4-分數與評語\obj\Debug\ch4_分數與評語.Form1.resources
+E:\資二忠\ch4-分數與評語\ch4-分數與評語\obj\Debug\ch4_分數與評語.Resources.resources
+E:\資二忠\ch4-分數與評語\ch4-分數與評語\obj\Debug\ch4-分數與評語.vbproj.GenerateResource.Cache
+C:\Users\790\Desktop\ch4-分數與評語\ch4-分數與評語\bin\Debug\ch4-分數與評語.exe.config
+C:\Users\790\Desktop\ch4-分數與評語\ch4-分數與評語\bin\Debug\ch4-分數與評語.exe
+C:\Users\790\Desktop\ch4-分數與評語\ch4-分數與評語\bin\Debug\ch4-分數與評語.pdb
+C:\Users\790\Desktop\ch4-分數與評語\ch4-分數與評語\bin\Debug\ch4-分數與評語.xml
+C:\Users\790\Desktop\ch4-分數與評語\ch4-分數與評語\obj\Debug\ch4_分數與評語.Form1.resources
+C:\Users\790\Desktop\ch4-分數與評語\ch4-分數與評語\obj\Debug\ch4_分數與評語.Resources.resources
+C:\Users\790\Desktop\ch4-分數與評語\ch4-分數與評語\obj\Debug\ch4-分數與評語.vbproj.GenerateResource.Cache
+C:\Users\790\Desktop\ch4-分數與評語\ch4-分數與評語\obj\Debug\ch4-分數與評語.exe
+C:\Users\790\Desktop\ch4-分數與評語\ch4-分數與評語\obj\Debug\ch4-分數與評語.xml
+C:\Users\790\Desktop\ch4-分數與評語\ch4-分數與評語\obj\Debug\ch4-分數與評語.pdb
+E:\資二忠\ch4-分數與評語\ch4-分數與評語\obj\Debug\ch4-分數與評語.exe
+E:\資二忠\ch4-分數與評語\ch4-分數與評語\obj\Debug\ch4-分數與評語.xml
+E:\資二忠\ch4-分數與評語\ch4-分數與評語\obj\Debug\ch4-分數與評語.pdb

@@ -1,0 +1,10 @@
+E:\資二忠\ch4-計算郵資\ch4-計算郵資\bin\Debug\ch4-計算郵資.exe.config
+E:\資二忠\ch4-計算郵資\ch4-計算郵資\obj\Debug\ch4_計算郵資.Form1.resources
+E:\資二忠\ch4-計算郵資\ch4-計算郵資\obj\Debug\ch4_計算郵資.Resources.resources
+E:\資二忠\ch4-計算郵資\ch4-計算郵資\obj\Debug\ch4-計算郵資.vbproj.GenerateResource.Cache
+E:\資二忠\ch4-計算郵資\ch4-計算郵資\bin\Debug\ch4-計算郵資.exe
+E:\資二忠\ch4-計算郵資\ch4-計算郵資\bin\Debug\ch4-計算郵資.pdb
+E:\資二忠\ch4-計算郵資\ch4-計算郵資\bin\Debug\ch4-計算郵資.xml
+E:\資二忠\ch4-計算郵資\ch4-計算郵資\obj\Debug\ch4-計算郵資.exe
+E:\資二忠\ch4-計算郵資\ch4-計算郵資\obj\Debug\ch4-計算郵資.xml
+E:\資二忠\ch4-計算郵資\ch4-計算郵資\obj\Debug\ch4-計算郵資.pdb

@@ -1,0 +1,10 @@
+E:\資二忠\ch5-韓信點兵\ch5-韓信點兵\bin\Debug\ch5-韓信點兵.exe.config
+E:\資二忠\ch5-韓信點兵\ch5-韓信點兵\bin\Debug\ch5-韓信點兵.exe
+E:\資二忠\ch5-韓信點兵\ch5-韓信點兵\bin\Debug\ch5-韓信點兵.pdb
+E:\資二忠\ch5-韓信點兵\ch5-韓信點兵\bin\Debug\ch5-韓信點兵.xml
+E:\資二忠\ch5-韓信點兵\ch5-韓信點兵\obj\Debug\ch5_韓信點兵.Form1.resources
+E:\資二忠\ch5-韓信點兵\ch5-韓信點兵\obj\Debug\ch5_韓信點兵.Resources.resources
+E:\資二忠\ch5-韓信點兵\ch5-韓信點兵\obj\Debug\ch5-韓信點兵.vbproj.GenerateResource.Cache
+E:\資二忠\ch5-韓信點兵\ch5-韓信點兵\obj\Debug\ch5-韓信點兵.exe
+E:\資二忠\ch5-韓信點兵\ch5-韓信點兵\obj\Debug\ch5-韓信點兵.xml
+E:\資二忠\ch5-韓信點兵\ch5-韓信點兵\obj\Debug\ch5-韓信點兵.pdb

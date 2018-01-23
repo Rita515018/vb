@@ -1,0 +1,10 @@
+E:\資二忠\ch5-被7整除\ch5-被7整除\bin\Debug\ch5-被7整除.exe.config
+E:\資二忠\ch5-被7整除\ch5-被7整除\bin\Debug\ch5-被7整除.exe
+E:\資二忠\ch5-被7整除\ch5-被7整除\bin\Debug\ch5-被7整除.pdb
+E:\資二忠\ch5-被7整除\ch5-被7整除\bin\Debug\ch5-被7整除.xml
+E:\資二忠\ch5-被7整除\ch5-被7整除\obj\Debug\ch5_被7整除.Form1.resources
+E:\資二忠\ch5-被7整除\ch5-被7整除\obj\Debug\ch5_被7整除.Resources.resources
+E:\資二忠\ch5-被7整除\ch5-被7整除\obj\Debug\ch5-被7整除.vbproj.GenerateResource.Cache
+E:\資二忠\ch5-被7整除\ch5-被7整除\obj\Debug\ch5-被7整除.exe
+E:\資二忠\ch5-被7整除\ch5-被7整除\obj\Debug\ch5-被7整除.xml
+E:\資二忠\ch5-被7整除\ch5-被7整除\obj\Debug\ch5-被7整除.pdb
