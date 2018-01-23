@@ -1,0 +1,10 @@
+C:\Users\790\Desktop\18陳瑞玉\18-3\18-3\bin\Debug\18-3.exe.config
+C:\Users\790\Desktop\18陳瑞玉\18-3\18-3\bin\Debug\18-3.exe
+C:\Users\790\Desktop\18陳瑞玉\18-3\18-3\bin\Debug\18-3.pdb
+C:\Users\790\Desktop\18陳瑞玉\18-3\18-3\bin\Debug\18-3.xml
+C:\Users\790\Desktop\18陳瑞玉\18-3\18-3\obj\Debug\_18_3.Form1.resources
+C:\Users\790\Desktop\18陳瑞玉\18-3\18-3\obj\Debug\_18_3.Resources.resources
+C:\Users\790\Desktop\18陳瑞玉\18-3\18-3\obj\Debug\18-3.vbproj.GenerateResource.Cache
+C:\Users\790\Desktop\18陳瑞玉\18-3\18-3\obj\Debug\18-3.exe
+C:\Users\790\Desktop\18陳瑞玉\18-3\18-3\obj\Debug\18-3.xml
+C:\Users\790\Desktop\18陳瑞玉\18-3\18-3\obj\Debug\18-3.pdb
